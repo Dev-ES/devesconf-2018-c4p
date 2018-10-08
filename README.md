@@ -1,2 +1,15 @@
-# devesconf-2018-c4p
 Call for papers da Dev-ES Conf 2018
+----
+
+TL;DR
+
+Basta enviar um pull request com as seguintes informações:
+
+* Título da palestra
+* Nome do palestrante
+* Descrição da palestra
+* Descriço do palestrante
+* Público alvo da palestra
+* Tempo de duração da palestra (5 min, 15 min, 30 min ou 45 min)
+* É sua primeira palestra?
+* Já palestrou em eventos da Dev-ES alguma vez?
