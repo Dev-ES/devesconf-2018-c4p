@@ -8,7 +8,7 @@ Basta enviar um pull request com as seguintes informações em um novo arquivo n
 * Título da palestra
 * Nome do palestrante
 * Descrição da palestra
-* Descriço do palestrante
+* Descrição do palestrante
 * Público alvo da palestra
 * Tempo de duração da palestra (5 min, 15 min, 30 min ou 45 min)
 * É sua primeira palestra?
