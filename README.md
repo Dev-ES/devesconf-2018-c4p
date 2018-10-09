@@ -3,13 +3,8 @@ Call for papers da Dev-ES Conf 2018
 
 TL;DR
 
-Basta enviar um pull request com as seguintes informações em um novo arquivo no seguinte formato `<primeiro nome>_<último nome>.md`:
+Copie o arquivo `/template.md` para `/<primeiro nome>_<último nome>.md` e preencha as informações necessárias.
 
-* Título da palestra
-* Nome do palestrante
-* Descrição da palestra
-* Descrição do palestrante
-* Público alvo da palestra
-* Tempo de duração da palestra (5 min, 15 min, 30 min ou 45 min)
-* É sua primeira palestra?
-* Já palestrou em eventos da Dev-ES alguma vez?
+Veja na pasta de propostas as já aceitas para avaliação.
+
+Caso queira comentar alguma basta abrir uma issue.
