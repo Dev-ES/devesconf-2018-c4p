@@ -3,7 +3,7 @@ Call for papers da Dev-ES Conf 2018
 
 TL;DR
 
-Basta enviar um pull request com as seguintes informações:
+Basta enviar um pull request com as seguintes informações em um novo arquivo no seguinte formato `<primeiro nome>_<último nome>.md`:
 
 * Título da palestra
 * Nome do palestrante
