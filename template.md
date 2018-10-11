@@ -10,7 +10,7 @@
 
 [Inserir resposta aqui]
 
-# Descriço do palestrante
+# Descrição do palestrante
 
 [Inserir resposta aqui]
 
