@@ -1,7 +1,5 @@
-# Nome do palestrante
+Acabou o espaço na grade para novas palestras, obrigado.
 
-[Inserir resposta aqui]
+Nos vemos no evento.
 
-# Descreva o motivo do seu interesse de palestrar no evento
-
-[Inserir resposta aqui]
+Até.
