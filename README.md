@@ -1,7 +1,7 @@
 Call for papers da Dev-ES Conf 2018
 ----
 
-> Submeta sua palestra até o dia 15 de Novembro!
+> GRADE FECHADA!!!
 
 TL;DR
 
